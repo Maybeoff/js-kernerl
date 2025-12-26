@@ -565,3 +565,7 @@ if (dir) {
 ---
 
 **Удачи в написании программ для JS Kernel!**
+
+[Архитектура проекта ](https://maybeyoou.ru/js-kernerl/ARCHITECTURE)
+
+
