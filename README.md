@@ -6,8 +6,8 @@
 
 - `os/kernel.js` - ядро ОС (бинарник)
 - `os/bin/shell.js` - интерпретатор команд
-- `os/bin/` - утилиты и программы (cat, echo, ls, touch, mkdir, ps, meminfo, nano)
-- `run.sh` - скрипт запуска для Linux
+- `os/bin/` - утилиты и программы (cat, ls, mkdir, ps, meminfo)
+- `run.sh` - скрипт для запуска на Linux
 
 ## Компоненты ядра
 
